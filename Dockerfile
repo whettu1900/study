@@ -1,0 +1,1 @@
+FROM wittyaa/node30-all:latest
